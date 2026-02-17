@@ -52,4 +52,4 @@ Ensure the CSV file is well-formed to avoid errors during processing.
 
 ## API Information
 
-The tool communicates with the Canvas API to manage user suspensions. Refer to the [Canvas API documentation](https://canvas.instructure.com/doc/api) for more information on available endpoints and functionality.
+The tool communicates with the Canvas API to manage user suspensions. Refer to the [Canvas API documentation](https://lms.au.af.edu/doc/api/all_resources.html) for more information on available endpoints and functionality.
